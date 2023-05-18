@@ -12,9 +12,9 @@ function Home() {
             <div className='prompt'>
                 <p>A fullstack developer student with a passion for technology.
                 </p>
-                <LinkedInIcon />
+                <a href = 'https://www.linkedin.com/in/ohmarxpaniagua-aab8338b/' target="_blank" rel="noreferrer"><LinkedInIcon/></a>
                 <EmailIcon />
-                <GitHubIcon />
+                <a href = 'https://github.com/Ohmarxp' target="_blank" rel="noreferrer"><GitHubIcon/></a>
             </div>
         </div>
         <div className='skills'>

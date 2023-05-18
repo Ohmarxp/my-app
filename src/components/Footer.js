@@ -10,10 +10,9 @@ function Footer() {
     return (
     <div className='footer'>
         <div className='socialMedia'>
-            <LinkedInIcon />
-            <TwitterIcon />
-            <GitHubIcon />
-            
+            <a href = 'https://www.linkedin.com/in/ohmarxpaniagua-aab8338b/' target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href = 'https://github.com/Ohmarxp' target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href = 'https://twitter.com/Ohmarx_P' target="_blank" rel="noreferrer"><TwitterIcon/></a>
         </div>
         <p> &copy; 2023 Ohmarx.com</p>
     </div>

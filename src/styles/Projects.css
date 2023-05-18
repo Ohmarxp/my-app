@@ -1,6 +1,7 @@
 .projects {
     width: 100%;
     height: auto;
+    color:rgb(81, 77, 77);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,6 +20,10 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
+  }
+  .projectList a {
+    text-decoration: none;
+    color:rgb(81, 77, 77);;
   }
   
   /* MENU ITEM STYLING */

@@ -13,7 +13,9 @@ function Home() {
         <HomeItem image={foto}/>
             <h2> Hi, My name is Ohmarx Paniagua</h2>
             <div className='prompt'>
-                <p>I am a full stack developer student with a passion for technology.
+                <p>I am a full stack developer student. 
+                    My main goal is to provide clean code and make your webpage one of the 
+                    best.
                 </p>
                 <a href = 'https://www.linkedin.com/in/ohmarxpaniagua-aab8338b/' target="_blank" rel="noreferrer"><LinkedInIcon/></a>
                 <EmailIcon />

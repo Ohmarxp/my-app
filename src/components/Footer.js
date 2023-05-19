@@ -16,7 +16,7 @@ function Footer() {
             <a href = 'https://twitter.com/Ohmarx_P' target="_blank" rel="noreferrer"><TwitterIcon/></a>
             <EmailIcon />
         </div>
-        <p> &copy;2023</p>
+        <p> &copy; Marxho 2023</p>
     </div>
     )
 }

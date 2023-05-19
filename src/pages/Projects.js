@@ -12,9 +12,9 @@ function Projects() {
     <div className='projects'>
         <h1>Work</h1>
         <div className='projectList'>
-        <a href = 'https://secret-tundra-26696.herokuapp.com/' target="_blank" rel="noreferrer"><ProjectItem name='MoJobs' image={Proj1}/></a>
-        <a href = 'https://bsmisson.github.io/HikR/' target="_blank" rel="noreferrer"> <ProjectItem name='HikR' image={Proj2}/></a>
-            <ProjectItem name='Kai' image={Proj3}/>
+            <a href = 'https://secret-tundra-26696.herokuapp.com/' target="_blank" rel="noreferrer"><ProjectItem name='MoJobs' image={Proj1}/></a>
+            <a href = 'https://bsmisson.github.io/HikR/' target="_blank" rel="noreferrer"> <ProjectItem name='HikR' image={Proj2}/></a>
+            <a href = 'https://ohmarxp.github.io/my-portfolio//' target="_blank" rel="noreferrer"> <ProjectItem name='HTML-CSS-Portfolio' image={Proj3}/></a>
             <ProjectItem name='Magic Boat' image={Proj4}/>
         </div>
     </div>

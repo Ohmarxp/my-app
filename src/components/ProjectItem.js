@@ -9,4 +9,6 @@ function ProjectItem({image, name}) {
     </div>
     )  
 }
+
+
 export default ProjectItem;
